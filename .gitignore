@@ -1,0 +1,14 @@
+/**/*.user
+/**/obj
+/**/bin
+/**/packages
+/**/TestResults
+/**/.vs
+
+/**/*.suo
+/**/*.DotSettings
+/**/*.pubxml
+/**/*.jfm
+/**/*.cache
+/Content/Diagrams/*.bak_*
+/Content/Diagrams/*.vpp.lck

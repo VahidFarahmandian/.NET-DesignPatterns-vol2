@@ -1,0 +1,9 @@
+{
+  "logging": [
+    {
+      "interface": "ILog",
+      "implementation": "DotNet_Design_Patterns_Vol2.Chapter_12.Plugin.TxtLogger",
+      "assembly": "DotNet_Design_Patterns_Vol2"
+    }
+  ]
+}
